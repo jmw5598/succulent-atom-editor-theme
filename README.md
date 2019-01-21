@@ -1,6 +1,6 @@
 ## Succulent UI - Atom Editor theme
 
-This is an Atom UI and syntax theme to go with [Tony Zhu's DotfilesSucculent] unix theme.  
+This is an Atom UI and syntax theme to go with [Tony Zhu's DotfilesSucculent][2] unix theme.  
 
 
 #### Install
@@ -14,6 +14,9 @@ This is an Atom UI and syntax theme to go with [Tony Zhu's DotfilesSucculent] un
 
 ![Image of Succulent UI Atom theme](https://i.ibb.co/WWr8Sn6/succulent-atom-theme.png)
 
+#### Links
+
+Original Theme: [DotfilesSucculent][1]
 
 [1]: https://github.com/snickerton/DotfilesSucculent
 [2]: https://github.com/snickerton
