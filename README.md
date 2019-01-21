@@ -8,7 +8,7 @@ This is an Atom UI and syntax theme to go with [Tony Zhu's DotfilesSucculent] un
 2. Change directory into UI theme `cd succulent-atom-editor-theme/succulent-ui`.
 3. Use `apm` to sym link UI theme `apm link`.
 4. Change directory into syntax theme `cd succulent-atom-editor-theme/succulent-syntax`.
-5. Use `apm` to sym link syntax theme 'apm link'.
+5. Use `apm` to sym link syntax theme `apm link`.
 
 #### Screenshot
 
