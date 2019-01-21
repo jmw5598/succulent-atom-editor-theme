@@ -12,7 +12,7 @@ This is an Atom UI and syntax theme to go with [Tony Zhu's DotfilesSucculent] un
 
 #### Screenshot
 
-![Image of Succulent UI Atom theme] (https://i.ibb.co/WWr8Sn6/succulent-atom-theme.png)
+![Image of Succulent UI Atom theme](https://i.ibb.co/WWr8Sn6/succulent-atom-theme.png)
 
 
 [1]: https://github.com/snickerton/DotfilesSucculent
