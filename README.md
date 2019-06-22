@@ -3,6 +3,9 @@
 This is an Atom UI and syntax theme to go with [Tony Zhu's DotfilesSucculent][2] unix theme.  
 
 
+**[VS Code Version can be  found here][3]**
+
+
 #### Install
 1. Clone repository `git clone https://github.com/jmw5598/succulent-atom-editor-theme.git`.
 2. Change directory into UI theme `cd succulent-atom-editor-theme/succulent-ui`.
@@ -20,3 +23,4 @@ Original Theme: [DotfilesSucculent][1]
 
 [1]: https://github.com/snickerton/DotfilesSucculent
 [2]: https://github.com/snickerton
+[3]: https://github.com/jmw5598/succulent-vscode-theme
